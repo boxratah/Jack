@@ -485,7 +485,7 @@ def InfoAcc(username, gg):
  Rest - {rest(username)}
  Url - https://www.instagram.com/{username}
 ─────────────────── 
-By Stein Join @PyStein @Steinpy
+By Stein Join @Pykirito @Whosekirito
 '''
 
     with open('stein.txt', 'a') as ff:
