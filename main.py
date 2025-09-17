@@ -500,7 +500,7 @@ By Stein Join @Pykirito @Whosekirito
 def gg():
     while True:
         data = {
-            "lsd": '.join(random.choices(string.ascii_letters + string.digits, k=32)),
+            "lsd": .join(random.choices(string.ascii_letters + string.digits, k=32)),
             "variables": json.dumps({"id": int(random.randrange(bbk, id)), "render_surface": "PROFILE"}),
             "doc_id": "25618261841150840"
         }
